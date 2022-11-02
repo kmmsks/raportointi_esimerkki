@@ -1,0 +1,1 @@
+https://geo.stat.fi/geoserver/vaestoalue/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=vaestoalue%3Amaakunta_vaki2017&maxFeatures=4000&outputFormat=SHAPE-ZIP
